@@ -8,10 +8,10 @@ function login(){
  switch(x) {
     case 'osytr':
         
-        window.open("../chapter1/further/level3.html","self");
+        window.open("../The Maze Project/The-Maze-Project/chapter1/further/level3.html");
         break;
 
     default:
-    	window.open("../chapter1/level3.html")
+    	window.open("../The Maze Project/The-Maze-Project/chapter1/level3.html")
     }
 }
